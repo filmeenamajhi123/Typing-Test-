@@ -46,11 +46,11 @@ body {
 }
 
 .correct {
-    color: green;
+    color: rgb(78, 231, 78);
 }
 
 .incorrect {
-    color: red;
+    color:rgb(245, 80, 80);
 }
 
 #input {
